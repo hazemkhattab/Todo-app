@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322305256724",
+    "project_id": "final-todo-app-7bdc8",
+    "storage_bucket": "final-todo-app-7bdc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322305256724:android:b1cf64e15601d568056601",
+        "android_client_info": {
+          "package_name": "com.example.islami_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbmCBTKzsgd5QoZHITL2SDuFH2D-E50tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322305256724:android:e5b60d26a1460d59056601",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbmCBTKzsgd5QoZHITL2SDuFH2D-E50tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
